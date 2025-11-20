@@ -12,6 +12,7 @@ public class Main {
 		b.makeSound();
 		d.makeSound();
 		l.makeSound();
+		b.makeSound();
 		
 		
 		System.out.println(d.getName());
